@@ -8,6 +8,7 @@ Update process
 4. Pull code to test rigs and build updates
 5. Switch the sheet IDs from live to test
 6. Test with a user
+7. Update the notation on the script
 7. Switch from test to live sheet IDs
 8. Committ to live system
 
@@ -42,6 +43,9 @@ Test: Test Rig iQA
 - 003 cpQA2[Master] (container)
 
 Flux Capacitor
+
+- 701 Flux Capacitor (container)
+
 iDashboard
 UI LinkedIn
 UI Dashboard
