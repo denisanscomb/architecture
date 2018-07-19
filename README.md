@@ -45,12 +45,15 @@ iWriter
 
 iQA
 Live: Robustified Index Master
-Test: Test Rig iQA
+- 006 Test Rig iQA
 - 003 cpQA2[Master] (container)
+- 005 iQAtestscript (container)
 
 Flux Capacitor
 
 - 701 Flux Capacitor (container)*multiple attached to different emails
+- gmail accounts with alerts are: edwekkpmgindex@gmail.com; denistest301116@gmail.com & cristianindexalerts@gmail.com
+- there are different versions of 701 mapped to the different email accounts 
 - 703 LinkedIn scraper (container)
 
 Admin:
