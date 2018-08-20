@@ -29,10 +29,14 @@ iProcessor
 
 iWriter
 - /iWriteCopyOps
-- 100 copyWrite[Copy] (container)
-- 102 libCopyOps
-- 105 Test Rig libCopyOps
-
+- DEPRECIATED 100 copyWrite[Copy] (container)
+- DEPRECIATED 102 libCopyOps
+- DEPRECIATED 105 Test Rig libCopyOps
+- 106 iWriter Master - [copywriter name] 
+- 107 iWriter Container
+- 108 iWrtier pull library
+- 109 iWriter push library
+- 110 iWrtier comp processor library
 
 
 Flux Capacitor
