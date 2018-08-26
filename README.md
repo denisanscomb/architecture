@@ -72,7 +72,10 @@ UI Sendwithus
 ADMIN SYSTEMS
 
 - x1101 Index CRM
-- x1102 iCRM (library)
+- x1102 iCRM (library) - DEPRECIATED I THINK
+- x1105 CRM (container)
+- x1114 iCRM bcc feeder (library) attached to denistest151116@gmail.com // the bcc for the CRM
+- x1118 subCRM KPI (library)
 
 Update process
 set timing of task
