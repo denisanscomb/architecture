@@ -9,7 +9,7 @@ Live: Robustified Index Master
 
 iDatabase
 - 500 iDatabase
-- 503 iDatabase (container)
+- 503 iDatabase (container). Note mega() on a daily trigger
 
 iProcessor
  - /iProcessorpullKey (library)
@@ -41,7 +41,8 @@ iWriter
 
 Flux Capacitor
 
-- 701 Flux Capacitor (container)*multiple attached to different emails
+- 701 Flux Capacitor (container)*multiple attached to different emails. Note pullmails() and wrangler2() are set up on triggers
+- 702 Flux Capacitor
 - gmail accounts with alerts are: edwekkpmgindex@gmail.com; denistest301116@gmail.com & cristianindexalerts@gmail.com
 - there are different versions of 701 mapped to the different email accounts 
 - 703 LinkedIn scraper (container)
