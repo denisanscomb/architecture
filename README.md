@@ -42,7 +42,7 @@ iWriter
 Flux Capacitor
 
 - 701 Flux Capacitor (container)*multiple attached to different emails. Note pullmails() and wrangler2() are set up on triggers
-- 702 Flux Capacitor
+- 702 Flux Data
 - gmail accounts with alerts are: edwekkpmgindex@gmail.com; denistest301116@gmail.com & cristianindexalerts@gmail.com
 - there are different versions of 701 mapped to the different email accounts 
 - 703 LinkedIn scraper (container)
@@ -63,6 +63,8 @@ Dashboard
 
 - 9001 Non-Event and Unchange archive
 - 9002 Non Event scripts (container)
+
+- 15001 storage for swept gmails from 702 Flux
 
 
 iDashboard
