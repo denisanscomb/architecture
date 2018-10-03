@@ -48,6 +48,8 @@ Adding users
 - 601 New accounts for Set Up - add new accounts here
 - 602 New Account Set Up (container)
 - 603 New Contact Set Up - where the analysts add links to the new contacts
+- 604 Model Training - for additional searches to improve yield
+- 605 Model Training Data - wrangling the searches from 604
 - 606 Category Management (Library) - to push iDatabase categories to all sheets
 
 
