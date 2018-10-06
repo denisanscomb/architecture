@@ -55,7 +55,7 @@ Adding users
 
 Flux Capacitor
 
-- 701 Flux Capacitor (container)*multiple attached to different emails. Note pullmails() and wrangler2() are set up on triggers
+- 701 Flux Capacitor (container)*multiple attached to different emails. Note pullmails() and wrangler2() are set up on triggers. These triggers live in edwekkpmginde@gmail.com
 - 702 Flux Data
 - gmail accounts with alerts are: edwekkpmgindex@gmail.com; denistest301116@gmail.com & cristianindexalerts@gmail.com
 - there are different versions of 701 mapped to the different email accounts 
