@@ -86,6 +86,7 @@ User emails
 - 9002 Non Event scripts (container)
 
 - 15001 storage for swept gmails from 702 Flux
+- 15002 - more storage
 
 
 iDashboard
