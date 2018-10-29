@@ -85,7 +85,9 @@ User emails
 - 1304 Sweeper to 1303 
 
 - 9001 Non-Event and Unchange archive
+- 9001.1 Test Rig Non-Event and Unchange archive
 - 9002 Non Event scripts (container)
+- 9003 Historical Non-Event and Unchange archive
 
 - 15001 storage for swept gmails from 702 Flux
 - 15002 - more storage
