@@ -39,10 +39,14 @@ iWriter
 - DEPRECIATED 102 libCopyOps
 - DEPRECIATED 105 Test Rig libCopyOps
 - 106 iWriter Master - [copywriter name] 
+- Test Rig Alison 116 iWriter Master
 - 107 iWriter Container
 - 108 iWrtier pull library
 - 109 iWriter push library
 - 110 iWrtier comp processor library
+- 117 iWriter Container test rig
+- 118 iWriter pull library test rig
+- 119 iWriter push library test rig
 
 Adding users
 - 601 New accounts for Set Up - add new accounts here
