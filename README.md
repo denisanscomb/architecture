@@ -88,7 +88,7 @@ User emails
 - 1301.1 Data Storage Test Rig
 - 1302 Sweeper - pulls in alert info and turns it into csvs for storage 
 - 1303 Data Storage second phase
-- 1304 Sweeper to 1303 
+- 1304 Archive maintenance (lib or container?)
 
 - 9001 Non-Event and Unchange archive
 - 9001.1 Test Rig Non-Event and Unchange archive
