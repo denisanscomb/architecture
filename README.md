@@ -66,6 +66,8 @@ Flux Capacitor
 - gmail accounts with alerts are: edwekkpmgindex@gmail.com; denistest301116@gmail.com & cristianindexalerts@gmail.com
 - there are different versions of 701 mapped to the different email accounts 
 - 703 LinkedIn scraper (container)
+- 705 Flux archive (ss)
+- 706 Flux archive management (container)
 
 Dashboard
 
