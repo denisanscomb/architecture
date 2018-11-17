@@ -68,6 +68,7 @@ Flux Capacitor
 - 703 LinkedIn scraper (container)
 - 705 Flux archive (ss)
 - 706 Flux archive management (container)
+- 707 FLux Gmail Scraper (container) on groupindex7@gmail.com
 
 Dashboard
 
