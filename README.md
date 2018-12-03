@@ -57,6 +57,7 @@ Adding users
 - 604 Model Training - for additional searches to improve yield
 - 605 Model Training Data - wrangling the searches from 604
 - 606 Category Management (Library) - to push iDatabase categories to all sheets
+- Copy of Sample Index Account Data (SS) for adding dashboard data
 
 
 Flux Capacitor
@@ -88,7 +89,7 @@ User emails
 - 920 Automated Reporting - templates for automated mails
 - 921 AutoG Reporting (Container) - generates automatic gmail reports
 
-
+Storage
 - 1201 Analysts Notes - repository for errors found by analysts or their ideas for improvement
 - 1301 Data Storage
 - 1301.1 Data Storage Test Rig
