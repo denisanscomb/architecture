@@ -58,7 +58,7 @@ Adding users
 - 605 Model Training Data - wrangling the searches from 604
 - 606 Category Management (Library) - to push iDatabase categories to all sheets
 - Copy of Sample Index Account Data (SS) for adding dashboard data
-
+- 608 Set up from LinkedIn download
 
 Flux Capacitor
 
