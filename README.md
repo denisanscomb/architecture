@@ -107,6 +107,12 @@ Storage
 - 15002 - more storage
 - 15005 - (container) sweeping from 702
 
+On-boarding
+- 1400 Contact Yield Model
+- 1410 Trackly Uploads
+- 1420 Google Alerts Setup
+- 1430 LinkedIn Setup
+
 
 iDashboard
 UI LinkedIn
