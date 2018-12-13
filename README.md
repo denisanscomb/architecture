@@ -113,6 +113,9 @@ On-boarding
 - 1420 Google Alerts Setup
 - 1430 LinkedIn Setup
 
+QA
+- 1501.1 DA QA QA UI for specific users
+
 
 iDashboard
 UI LinkedIn
