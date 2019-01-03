@@ -57,7 +57,7 @@ Adding users
 - 604 Model Training - for additional searches to improve yield
 - 605 Model Training Data - wrangling the searches from 604
 - 606 Category Management (Library) - to push iDatabase categories to all sheets
-- Copy of Sample Index Account Data (SS) for adding dashboard data
+- 1333 Copy of Sample Index Account Data (SS) for adding dashboard data
 - 608 Set up from LinkedIn download
 - 609 LinkedIn Converter
 
