@@ -97,6 +97,8 @@ Storage
 - 1302 Sweeper - pulls in alert info and turns it into csvs for storage 
 - 1303 Data Storage second phase
 - 1304 Archive maintenance (lib or container?)
+- 1306 Training Data 3
+- 1307 Training Data 4
 
 - 9001 Non-Event and Unchange archive
 - 9001.1 Test Rig Non-Event and Unchange archive
