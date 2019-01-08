@@ -114,6 +114,8 @@ On-boarding
 - 1410 Trackly Uploads
 - 1420 Google Alerts Setup
 - 1430 LinkedIn Setup
+- 1460 Special Measures
+- 1470 Special URL checker
 
 QA
 - 1501.1 DA QA QA UI for specific users (ss)
