@@ -87,6 +87,7 @@ Dashboard
 - 925 Dog pics (container) - generating auto report mails internally
 - 930 User Event Data (ss) - adds output data each day
 - 940 Index Numbers (ss) - tracking the index scores of users
+- 970 Team Time - tracking how long jobs are taking
 
 User emails
 - 920 Automated Reporting - templates for automated mails
