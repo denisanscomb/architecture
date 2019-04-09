@@ -88,6 +88,7 @@ Dashboard
 - 930 User Event Data (ss) - adds output data each day
 - 940 Index Numbers (ss) - tracking the index scores of users
 - 970 Team Time - tracking how long jobs are taking
+- 980 Event Queue - Job List
 
 User emails
 - 920 Automated Reporting - templates for automated mails
