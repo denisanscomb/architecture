@@ -89,6 +89,7 @@ Dashboard
 - 940 Index Numbers (ss) - tracking the index scores of users
 - 970 Team Time - tracking how long jobs are taking
 - 980 Event Queue - Job List
+- 999 Customer Success
 
 User emails
 - 920 Automated Reporting - templates for automated mails
