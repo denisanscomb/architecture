@@ -125,6 +125,7 @@ On-boarding
 - 1430 LinkedIn Setup
 - 1460 Special Measures
 - 1470 Special URL checker
+- 1406 Individual Contacts
 
 QA
 - 1501.1 DA QA QA UI for specific users (ss)
