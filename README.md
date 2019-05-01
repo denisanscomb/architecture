@@ -132,6 +132,7 @@ On-boarding
 QA
 - 1501.1 DA QA QA UI for specific users (ss)
 - 1502.1 QA Generator (container)
+- 1503 QA Next Generation
 - 1505.1 Indexing update queue DA (ss)
 
 
