@@ -122,6 +122,7 @@ On-boarding
 - 1400 Contact Yield Model
 - 1401 Amended Contacts
 - 1406 Individual Contacts
+- 1407 Contract Wrangling
 - 1410 Trackly Uploads
 - 1420 Google Alerts Setup
 - 1430 LinkedIn Setup
