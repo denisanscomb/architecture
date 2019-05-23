@@ -126,7 +126,9 @@ On-boarding
 - 1406 Individual Contacts
 - 1407 Contract Wrangling
 - 1410 Trackly Uploads
+- 1411 Trackly Takedowns
 - 1420 Google Alerts Setup
+- 1421 Google Alerts Takedown
 - 1430 LinkedIn Setup
 - 1460 Special Measures
 - 1470 Special URL checker
