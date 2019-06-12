@@ -30,6 +30,7 @@ iProcessor
  - 305 iProcessorpullKey (lib)
  - 302 iProcessor (container) - multiple
  - 307 Test Rig iProcessorPush (lib)
+ - 308 Deduper (container Library) - dedupes the analyst's sheets
  - 311 Test Rig iProcessorpullKey (lib)
  - 313 libAccUpdates (lib)
  - 316 Freestyle Event
