@@ -141,6 +141,7 @@ QA
 - 1503 QA Next Generation
 - 1505.1 Indexing update queue DA (ss)
 
+- 1600 Ground Truth - facilitates fast human searches of live accounts
 
 iDashboard
 UI LinkedIn
